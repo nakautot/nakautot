@@ -1,7 +1,7 @@
 # They Live... in the Cloud
 ### Welcome to the Dev Necropolis.
 
-I'm @nakautot, a programmer who breathes life into dead code and haunts the GitHub graveyard.  Just kidding (kind of).  Here to wrangle demons... I mean bugs... and build things that won't send you to the error log in the sky.
+I'm @nakautot, a programmer who breathes life into dead code and haunts the GitHub graveyard.  Just kidding _(kind of)_.  Here to wrangle demons... I mean bugs... and build things that won't send you to the error log in the sky.
 
 ### Current Incantation _(Project)_:
 
@@ -21,11 +21,15 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 #### Augments _(Frameworks & Tools)_:
 - React _(Lich React)_ ☠
 - Angular _(Cursed Components)_ ⚙
-- MSSQL
-- MySQL
-- NoSQL
+- MSSQL _(NecronomiconDB)_ 📖
+- MySQL _(PoltergeistDB)_ 👻
+- NoSQL _(NecroVault)_ 🚪
 
-#### Version Control: GitKraken (Release the Kraken!)
+#### Version Control:
+- Github _(CryptKeeperCode)_ 💂‍♂️
+- Gitlab _(The Bone Orchard)_ 🦴
+- TFS _(The Spectral Forge)_ 🔨
+- CVS _(The Repository of Shadows)_ ⚫
 
 #### My Code Repositories:
 
