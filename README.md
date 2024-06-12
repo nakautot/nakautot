@@ -40,6 +40,7 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 
 - Pedagogue Support V2 _(Educator Enhancement tools for US based schools)_ **2019-now** 🐴☠⚙📖💂‍♂️
 - Expedient Archive _(Educator Teaching Resource Repository for US based schools)_ **2017-19** 🪹⚙⌛💂‍♂️
+- Helmsman _(Payment Portal integrations for US based providers)_ **2017-2018** 🐴📖⚫
 - Infinitesimal Testament _(Educator Merit Management for US based schools)_  **2016-17** 🪹⚙⌛💂‍♂️
 - Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2015-16** 🪹⚙⌛💂‍♂️
 - Pedagogue Support _(Educator Enhancement tools for US based schools)_ - **2013-15** ⚙🪹⚙⌛💂‍♂️
