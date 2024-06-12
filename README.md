@@ -29,6 +29,7 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 - MySQL _(PoltergeistDB)_ 👻
 - OracleDB _(The Howling Databank)_ 🏦
 - NoSQL _(NecroVault)_ 🚪
+- AWS _(The FrankenServer)_ 🔩
 
 #### Version Control:
 - Github _(CryptKeeperCode)_ 💂‍♂️
@@ -38,7 +39,7 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 
 #### Incantation Timeline:
 
-- Pedagogue Support V2 _(Educator Enhancement tools for US based schools)_ **2019-now** 🐴☠⚙📖💂‍♂️
+- Pedagogue Support V2 _(Educator Enhancement tools for US based schools)_ **2019-now** 🔩🐴☠⚙📖💂‍♂️
 - Expedient Archive _(Educator Teaching Resource Repository for US based schools)_ **2017-19** 🪹⚙⌛💂‍♂️
 - Helmsman _(Payment Portal integrations for US based providers)_ **2017-2018** 🐴📖⚫
 - Infinitesimal Testament _(Educator Merit Management for US based schools)_  **2016-17** 🪹⚙⌛💂‍♂️
@@ -50,13 +51,9 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 
 ### How to Reach Me (if You Dare):
 
-(Optional) My personal website: [link to your website] (if it's not a creepy abandoned blog)
-Let's chat on Twitter: [link to your Twitter profile] (if applicable)
-Connect on LinkedIn: [link to your LinkedIn profile] (if applicable) (but beware, I might endorse you as "most likely to raise the dead")
+Let's chat on X: https://x.com/prootprootproot
 
-### My GitHub Gravestats:
-
-[Consider adding badges for languages used, contributions or streak activity using shields.io]
+Connect on LinkedIn: https://www.linkedin.com/in/joseph-panuncillo-ba019a9a/ _(but beware, I might endorse you as "most likely to raise the dead")_
 
 ### A Final Warning...
 
