@@ -1,16 +1,49 @@
-## Hi there 👋
+# They Live... in the Cloud
+### Welcome to the Dev Necropolis.
 
-<!--
-**nakautot/nakautot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm @nakautot, a programmer who breathes life into dead code and haunts the GitHub graveyard.  Just kidding (kind of).  Here to wrangle demons... I mean bugs... and build things that won't send you to the error log in the sky.
 
-Here are some ideas to get you started:
+### Current Incantation _(Project)_:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Pedagogue Support** - Conjuring up tools to enhance Preceptor performance. Be prepared for some dark magic _(and hopefully awesome results)_.
+
+### My Unholy Skillset:
+
+#### Spells _(Programming Languages)_:
+
+- C# _(Charon#)_ 🐴
+- Java _(JVM Necromancy)_ 🪄
+- C++ _(Low-Level Demonic Rituals)_ 🔪
+- Javascript _(Necroscript)_ 📜
+- Nodejs _(HollowCore)_ 🪹
+- Dead Codes _(python, c, vb, cf, etc.)_ 🤮
+
+#### Augments _(Frameworks & Tools)_:
+- React _(Lich React)_ ☠
+- Angular _(Cursed Components)_ ⚙
+- MSSQL
+- MySQL
+- NoSQL
+
+#### Version Control: GitKraken (Release the Kraken!)
+
+#### My Code Repositories:
+
+[Project Name](link to repository): A [brief description of the project] that's more alive than it should be. ‍♂️
+[Project Name](link to repository): Don't wake the code that lies dormant here...
+(Feel free to add more project highlights with creepy descriptions)
+Open Source Contributions (Optional):
+
+### How to Reach Me (if You Dare):
+
+(Optional) My personal website: [link to your website] (if it's not a creepy abandoned blog)
+Let's chat on Twitter: [link to your Twitter profile] (if applicable)
+Connect on LinkedIn: [link to your LinkedIn profile] (if applicable) (but beware, I might endorse you as "most likely to raise the dead")
+
+### My GitHub Gravestats:
+
+[Consider adding badges for languages used, contributions or streak activity using shields.io]
+
+### A Final Warning...
+
+My code may be buggy, but it's definitely scary good.  Feel free to reach out if you need help necromancing some dead code or if you just enjoy a good scare _(and a good programmer)_.
