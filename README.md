@@ -1,6 +1,9 @@
 # They Live... in the Cloud
 ### Welcome to the Dev Necropolis.
 
+![image](https://github.com/nakautot/nakautot/assets/5414820/59a47774-0b3b-4337-8c1c-3281236eec0c)
+
+
 I'm @nakautot, a programmer who breathes life into dead code and haunts the GitHub graveyard.  Just kidding _(kind of)_.  Here to wrangle demons... I mean bugs... and build things that won't send you to the error log in the sky.
 
 ### Current Incantation _(Project)_:
