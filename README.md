@@ -8,14 +8,14 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 
 ### Current Incantation _(Project)_:
 
-**Pedagogue Support** - Conjuring up tools to enhance Preceptor performance. Be prepared for some dark magic _(and hopefully awesome results)_.
+**Pedagogue Support V2** - Conjuring up tools to enhance Preceptor performance. Be prepared for some dark magic _(and hopefully awesome results)_.
 
 ### My Unholy Skillset:
 
 #### Spells _(Programming Languages)_:
 
 - C# _(Charon#)_ 🐴
-- Java _(JVM Necromancy)_ 🪄
+- Java/JSP _(JVM Necromancy)_ 🪄
 - C++ _(Low-Level Demonic Rituals)_ 🔪
 - Javascript _(Necroscript)_ 📜
 - Nodejs _(HollowCore)_ 🪹
@@ -25,21 +25,24 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 - React _(Lich React)_ ☠
 - Angular _(Cursed Components)_ ⚙
 - MSSQL _(NecronomiconDB)_ 📖
+- PostgreSQL _(The PostmortemSQL)_ ⌛
 - MySQL _(PoltergeistDB)_ 👻
+- OracleDB _(The Howling Databank)_ 🏦
 - NoSQL _(NecroVault)_ 🚪
 
 #### Version Control:
 - Github _(CryptKeeperCode)_ 💂‍♂️
 - Gitlab _(The Bone Orchard)_ 🦴
 - TFS _(The Spectral Forge)_ 🔨
-- CVS _(The Repository of Shadows)_ ⚫
+- CVS/SVN _(The Repository of Shadows)_ ⚫
 
-#### My Code Repositories:
+#### Past Incantations:
 
-[Project Name](link to repository): A [brief description of the project] that's more alive than it should be. ‍♂️
-[Project Name](link to repository): Don't wake the code that lies dormant here...
-(Feel free to add more project highlights with creepy descriptions)
-Open Source Contributions (Optional):
+- Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2014-2015** ⚙🪹💂‍♂️
+- Pedagogue Support _(Educator Enhancement tools for US based schools)_ - **2013-2014** ⚙🪹💂‍♂️
+- Milage Toll _(Billing system for AUS based clients)_ - **2013** 🪄👻⚫
+- Phrontistery Codex Apparatus _(Information Management System for a local university)_ - **2010-12** 🐴📖🔨
+- Regime Obtainment Aid _(Procurement System for HK gov't)_ - **2008-09** 🪄🏦⚫
 
 ### How to Reach Me (if You Dare):
 
