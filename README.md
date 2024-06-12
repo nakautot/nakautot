@@ -36,10 +36,13 @@ I'm @nakautot, a programmer who breathes life into dead code and haunts the GitH
 - TFS _(The Spectral Forge)_ 🔨
 - CVS/SVN _(The Repository of Shadows)_ ⚫
 
-#### Past Incantations:
+#### Incantation Timeline:
 
-- Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2014-2015** ⚙🪹💂‍♂️
-- Pedagogue Support _(Educator Enhancement tools for US based schools)_ - **2013-2014** ⚙🪹💂‍♂️
+- Pedagogue Support V2 _(Educator Enhancement tools for US based schools)_ **2019-now** 🐴☠⚙📖💂‍♂️
+- Expedient Archive _(Educator Teaching Resource Repository for US based schools)_ **2017-19** 🪹⚙⌛💂‍♂️
+- Infinitesimal Testament _(Educator Merit Management for US based schools)_  **2016-17** 🪹⚙⌛💂‍♂️
+- Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2015-16** 🪹⚙⌛💂‍♂️
+- Pedagogue Support _(Educator Enhancement tools for US based schools)_ - **2013-15** ⚙🪹⚙⌛💂‍♂️
 - Milage Toll _(Billing system for AUS based clients)_ - **2013** 🪄👻⚫
 - Phrontistery Codex Apparatus _(Information Management System for a local university)_ - **2010-12** 🐴📖🔨
 - Regime Obtainment Aid _(Procurement System for HK gov't)_ - **2008-09** 🪄🏦⚫
