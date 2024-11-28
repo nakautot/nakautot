@@ -48,7 +48,7 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 - Observations 360 _(Educator Evaluation tools)_ - **2015-16** (PostgreSQL, NodeJS, Angular, GIT)
 - Edivate 360 _(Educator Enhancement tools)_ - **2013-15** (PostgreSQL, NodeJS, CF, Angular, GIT)
 - Utilibill _(Billing system integrations)_ - **2013** (MySQL, Java, JSP, SVN)
-- Phrontistery Codex Apparatus _(Information Management System for a local university)_ - **2010-12** 🐴📖🔨
+- ISMIS _(School Information Management, accounting side)_ - **2010-12** (MSSQL, C#, TFS)
 - Regime Obtainment Aid _(Procurement System for HK gov't)_ - **2008-09** 🪄🏦⚫
 
 ### How to Reach Me:
