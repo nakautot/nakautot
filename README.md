@@ -45,8 +45,8 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 - Professional Development Tools. **2017-19** (PostgreSQL, MySQL, NodeJS, CF, Angular, Marionette, GIT)
 - Navigator _(Payment Portal integrations)_ **2017-2018** (SAP integrations, MySQL, C#, GIT)
 - Micro credentials **2016-17** (PostgreSQL, NodeJS, Angular, GIT)
-- Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2015-16** 🪹⚙⌛💂‍♂️
-- Pedagogue Support _(Educator Enhancement tools for US based schools)_ - **2013-15** ⚙🪹⚙⌛💂‍♂️
+- Observations 360 _(Educator Evaluation tools)_ - **2015-16** (PostgreSQL, NodeJS, Angular, GIT)
+- Edivate 360 _(Educator Enhancement tools)_ - **2013-15** (PostgreSQL, NodeJS, CF, Angular, GIT)
 - Milage Toll _(Billing system for AUS based clients)_ - **2013** 🪄👻⚫
 - Phrontistery Codex Apparatus _(Information Management System for a local university)_ - **2010-12** 🐴📖🔨
 - Regime Obtainment Aid _(Procurement System for HK gov't)_ - **2008-09** 🪄🏦⚫
