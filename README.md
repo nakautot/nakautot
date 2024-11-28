@@ -21,15 +21,15 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 - Nodejs - 2013-present
 - Python, C, VB, CF, etc. - here and there wherever needed
 
-#### Augments _(Frameworks & Tools)_:
-- React _(Lich React)_ ☠
-- Angular _(Cursed Components)_ ⚙
-- MSSQL _(NecronomiconDB)_ 📖
-- PostgreSQL _(The PostmortemSQL)_ ⌛
-- MySQL _(PoltergeistDB)_ 👻
-- OracleDB _(The Howling Databank)_ 🏦
-- NoSQL _(NecroVault)_ 🚪
-- AWS _(The FrankenServer)_ 🔩
+#### Frameworks & Tools:
+- React
+- Angular
+- MSSQL
+- PostgreSQL
+- MySQL
+- OracleDB
+- NoSQL
+- AWS
 
 #### Version Control:
 - Github _(CryptKeeperCode)_ 💂‍♂️
