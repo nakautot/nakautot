@@ -30,16 +30,17 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 - OracleDB
 - NoSQL
 - AWS
+- ExtJS
 
 #### Version Control:
-- Github _(CryptKeeperCode)_ 💂‍♂️
-- Gitlab _(The Bone Orchard)_ 🦴
-- TFS _(The Spectral Forge)_ 🔨
-- CVS/SVN _(The Repository of Shadows)_ ⚫
+- Github
+- Gitlab
+- TFS
+- CVS/SVN
 
-#### Incantation Timeline:
+#### Past work:
 
-- Pedagogue Support V2 _(Educator Enhancement tools for US based schools)_ **2019-now** 🔩🐴☠⚙📖💂‍♂️
+- Developing tools for instructor growth. **2019-now** (NodeJs, C#, PostgreSQL, MSSQL, Angular, React, AWS, ExtJS, GIT)
 - Expedient Archive _(Educator Teaching Resource Repository for US based schools)_ **2017-19** 🪹⚙⌛💂‍♂️
 - Helmsman _(Payment Portal integrations for US based providers)_ **2017-2018** 🐴📖⚫
 - Infinitesimal Testament _(Educator Merit Management for US based schools)_  **2016-17** 🪹⚙⌛💂‍♂️
