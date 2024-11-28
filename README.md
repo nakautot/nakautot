@@ -31,6 +31,7 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 - NoSQL
 - AWS
 - ExtJS
+- Marionette 
 
 #### Version Control:
 - Github
@@ -41,7 +42,7 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 #### Past work:
 
 - Developing tools for instructor growth. **2019-now** (NodeJs, C#, PostgreSQL, MSSQL, Angular, React, AWS, ExtJS, GIT)
-- Expedient Archive _(Educator Teaching Resource Repository for US based schools)_ **2017-19** 🪹⚙⌛💂‍♂️
+- Professional Development Tools. **2017-19** (NodeJS, CF, Angular, Marionette, )
 - Helmsman _(Payment Portal integrations for US based providers)_ **2017-2018** 🐴📖⚫
 - Infinitesimal Testament _(Educator Merit Management for US based schools)_  **2016-17** 🪹⚙⌛💂‍♂️
 - Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2015-16** 🪹⚙⌛💂‍♂️
