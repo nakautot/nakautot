@@ -47,16 +47,12 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 - Micro credentials **2016-17** (PostgreSQL, NodeJS, Angular, GIT)
 - Observations 360 _(Educator Evaluation tools)_ - **2015-16** (PostgreSQL, NodeJS, Angular, GIT)
 - Edivate 360 _(Educator Enhancement tools)_ - **2013-15** (PostgreSQL, NodeJS, CF, Angular, GIT)
-- Milage Toll _(Billing system for AUS based clients)_ - **2013** 🪄👻⚫
+- Utilibill _(Billing system integrations)_ - **2013** (MySQL, Java, JSP, SVN)
 - Phrontistery Codex Apparatus _(Information Management System for a local university)_ - **2010-12** 🐴📖🔨
 - Regime Obtainment Aid _(Procurement System for HK gov't)_ - **2008-09** 🪄🏦⚫
 
-### How to Reach Me (if You Dare):
+### How to Reach Me:
 
 Let's chat on X: https://x.com/prootprootproot
 
-Connect on LinkedIn: https://www.linkedin.com/in/joseph-panuncillo-ba019a9a/ _(but beware, I might endorse you as "most likely to raise the dead")_
-
-### A Final Warning...
-
-My code may be buggy, but it's definitely scary good.  Feel free to reach out if you need help necromancing some dead code or if you just enjoy a good scare _(and a good programmer)_.
+Connect on LinkedIn: https://www.linkedin.com/in/joseph-panuncillo-ba019a9a/
