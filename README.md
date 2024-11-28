@@ -42,9 +42,9 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 #### Past work:
 
 - Developing tools for instructor growth. **2019-now** (NodeJs, C#, PostgreSQL, MSSQL, Angular, React, AWS, ExtJS, GIT)
-- Professional Development Tools. **2017-19** (NodeJS, CF, Angular, Marionette, )
-- Helmsman _(Payment Portal integrations for US based providers)_ **2017-2018** 🐴📖⚫
-- Infinitesimal Testament _(Educator Merit Management for US based schools)_  **2016-17** 🪹⚙⌛💂‍♂️
+- Professional Development Tools. **2017-19** (PostgreSQL, MySQL, NodeJS, CF, Angular, Marionette, GIT)
+- Navigator _(Payment Portal integrations)_ **2017-2018** (SAP integrations, MySQL, C#, GIT)
+- Micro credentials **2016-17** (PostgreSQL, NodeJS, Angular, GIT)
 - Circular Acquiescences _(Educator Evaluation tools for US based schools)_ - **2015-16** 🪹⚙⌛💂‍♂️
 - Pedagogue Support _(Educator Enhancement tools for US based schools)_ - **2013-15** ⚙🪹⚙⌛💂‍♂️
 - Milage Toll _(Billing system for AUS based clients)_ - **2013** 🪄👻⚫
