@@ -14,7 +14,7 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 
 #### Programming Languages:
 
-- C# - 2009-present 
+- C# - 2009-present
 - Java/JSP - 2008-2016
 - C++ - 2009-2013
 - Javascript - 2008-present
@@ -24,6 +24,7 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 #### Frameworks & Tools:
 - React
 - Angular
+- ASP.Net
 - MSSQL
 - PostgreSQL
 - MySQL
@@ -43,13 +44,13 @@ Main Responsibility: Modernizing legacy systems, integrating new features, and e
 
 - Developing tools for instructor growth. **2019-now** (NodeJs, C#, PostgreSQL, MSSQL, Angular, React, AWS, ExtJS, GIT)
 - Professional Development Tools. **2017-19** (PostgreSQL, MySQL, NodeJS, CF, Angular, Marionette, GIT)
-- Navigator _(Payment Portal integrations)_ **2017-2018** (SAP integrations, MySQL, C#, GIT)
+- Navigator _(Payment Portal integrations)_ **2017-2018** (SAP integrations, ASP.Net, MySQL, C#, GIT)
 - Micro credentials **2016-17** (PostgreSQL, NodeJS, Angular, GIT)
 - Observations 360 _(Educator Evaluation tools)_ - **2015-16** (PostgreSQL, NodeJS, Angular, GIT)
 - Edivate 360 _(Educator Enhancement tools)_ - **2013-15** (PostgreSQL, NodeJS, CF, Angular, GIT)
 - Utilibill _(Billing system integrations)_ - **2013** (MySQL, Java, JSP, SVN)
-- ISMIS _(School Information Management, accounting side)_ - **2010-12** (MSSQL, C#, TFS)
-- Regime Obtainment Aid _(Procurement System for HK gov't)_ - **2008-09** 🪄🏦⚫
+- ISMIS _(School Information Management, accounting side)_ - **2010-12** (MSSQL, C#, ASP.Net, TFS)
+- PCMS _(Procurement System for HK gov't)_ - **2008-09** (Java, OracleDB, JSP, CVS)
 
 ### How to Reach Me:
 
