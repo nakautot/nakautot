@@ -3,6 +3,8 @@
 
 I'm @nakautot, a programmer since 2009, I specialize in modernizing large scale legacy application and have been doing it for most of my professional career.
 
+I'm driven by a passion for crafting robust and efficient systems, with a deep interest in data and software architecture.
+
 ### Current Incantation _(Project)_:
 
 **Pedagogue Support V2** - Conjuring up tools to enhance Preceptor performance. Be prepared for some dark magic _(and hopefully awesome results)_.
