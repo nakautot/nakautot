@@ -10,16 +10,16 @@ I'm driven by a passion for crafting robust and efficient systems, with a deep i
 **Developing tools for instructor growth.**
 Main Responsibility: Modernizing legacy systems, integrating new features, and ensuring continued operation of critical functions.
 
-### My Unholy Skillset:
+### Tools
 
-#### Spells _(Programming Languages)_:
+#### Programming Languages:
 
-- C# _(Charon#)_ 🐴
-- Java/JSP _(JVM Necromancy)_ 🪄
-- C++ _(Low-Level Demonic Rituals)_ 🔪
-- Javascript _(Necroscript)_ 📜
-- Nodejs _(HollowCore)_ 🪹
-- Dead Codes _(python, c, vb, cf, etc.)_ 🤮
+- C# - 2009-present 
+- Java/JSP - 2008-2016
+- C++ - 2009-2013
+- Javascript - 2008-present
+- Nodejs - 2013-present
+- Python, C, VB, CF, etc. - here and there wherever needed
 
 #### Augments _(Frameworks & Tools)_:
 - React _(Lich React)_ ☠
